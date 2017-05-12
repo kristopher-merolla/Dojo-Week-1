@@ -1,0 +1,13 @@
+*{
+	 margin: 0px;
+	 padding: 0px;
+}
+
+#big_wrapper {
+	width: 970px;
+	height: 970px;
+	margin: 0 auto;
+	background-color: tan;
+	padding: 20px;
+	text-align: center;
+}

@@ -1,0 +1,15 @@
+cd Desktop
+mkdir gittest
+cd gittest
+touch index.html
+touch styles.css
+touch aboutMe.txt
+git init -m "Initialization"
+vim aboutMe.txt
+git add aboutMe.txt
+git commit aboutMe.txt -m "updated aboutMe"
+vim aboutMe.txt
+git add aboutMe.txt
+git commit aboutMe.txt -m "added favorite movie to aboutMe"
+git log
+git revert --no-edit HARD

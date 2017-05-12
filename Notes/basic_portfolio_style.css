@@ -1,0 +1,57 @@
+*{
+	 margin: 0px;
+	 padding: 0px;
+}
+
+#big_wrapper {
+	width: 970px;
+	height: 970px;
+	margin: 0 auto;
+	background-color: tan;
+	padding: 20px;
+	text-align: center;
+}
+/*End of big_wrapper */
+
+#top_bar {
+
+}
+/*End of top_bar wrapper */
+
+#main_content {
+
+}
+
+#top_content {
+
+}
+
+#profile_image {
+
+}
+
+#about_text {
+
+}
+	/*End of top_content wrapper */
+
+#bottom_content {
+
+}
+
+.assignment {
+
+}
+
+.tech {
+	
+}
+
+	/*End of bottom_content wrapper */
+
+/*End of main_content wrapper*/
+
+#link_bar {
+
+}
+/*End of link_bar wrapper*/

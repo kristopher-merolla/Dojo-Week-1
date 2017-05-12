@@ -1,0 +1,21 @@
+cd Desktop
+mkdir Test
+cd Test
+touch index.html
+touch styles.css
+touch commands.txt
+cp index.html index_2.html
+rm -i styles.css
+Y
+cd ..
+mkdir Destination
+cd ..
+cd Test
+mv index_2.html /Users/AlienOutpost/Desktop/Destination
+ls
+cd ..
+cd Destination
+ls
+cd ..
+rm -rf Destination
+ls
